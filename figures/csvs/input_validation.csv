@@ -1,0 +1,7 @@
+method,exhaustiveness,rows,unique_complexes,poses_per_complex_min,poses_per_complex_max,components_per_complex_min,components_per_complex_max,poses_per_component_min,poses_per_component_max,denominator_present,denominator_missing
+gnina_multi,8,37000,925,40,40,5,5,8,8,802,0
+gnina_multi,16,37000,925,40,40,5,5,8,8,802,0
+gnina_multi,32,37000,925,40,40,5,5,8,8,802,0
+gnina_single,8,185000,925,200,200,5,5,40,40,802,0
+gnina_single,16,185000,925,200,200,5,5,40,40,802,0
+gnina_single,32,185000,925,200,200,5,5,40,40,802,0
